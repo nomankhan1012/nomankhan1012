@@ -235,8 +235,6 @@ Currently exploring:
 
 **🌍 Open to:** USA · UAE · UK · Canada · Saudi Arabia · Germany · Remote Worldwide
 
-![Profile Views](https://komarev.com/ghpvc/?username=nomankhan1012&color=blue&style=for-the-badge&label=Profile+Views)
-
 ---
 
 <i>"Writing clean code, building robust systems, and solving complex problems — one commit at a time."</i>
