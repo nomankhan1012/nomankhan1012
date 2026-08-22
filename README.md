@@ -2,7 +2,7 @@
 
 # Noman Khan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer+%7C+Node.js+%2B+TypeScript+%2B+Python;Sole+Backend+Owner+of+a+Production+Booking+Platform;AI+DevOps+Agent+on+AWS+Bedrock+AgentCore+%2B+EKS;LangGraph+%7C+ReAct+Agent+%7C+Kubernetes+%7C+Terraform;Open+to+Remote+Opportunities+Worldwide+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Node.js+%2B+TypeScript+%2B+Python;Sole+Backend+Owner+of+a+Production+Booking+Platform;AI+DevOps+Agent+on+AWS+Bedrock+AgentCore+%2B+EKS;LangGraph+%7C+ReAct+Agent+%7C+Kubernetes+%7C+Terraform;Open+to+Remote+Opportunities+Worldwide+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noman-khan1012)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomikhan459@gmail.com)
@@ -14,7 +14,7 @@
 
 ## About Me
 
-Full-Stack Engineer building production systems end-to-end — backend APIs, cloud infrastructure, and AI-powered agents.
+Software Engineer building production systems end-to-end — backend APIs, cloud infrastructure, and AI-powered agents.
 
 - 🏨 **Sole backend owner** of an AI hotel booking platform for Qatar Foundation (~2,000 users, ~500 bookings/month) — Amadeus GDS, OpenAI, PostgreSQL performance tuning under live traffic
 - 🤖 **Built a production AI DevOps agent** on AWS Bedrock AgentCore + Amazon EKS — natural language → kubectl → live cluster data
